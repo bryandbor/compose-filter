@@ -1,0 +1,30 @@
+{
+  "name": "compose-filters",
+  "version": "1.0.0",
+  "description": "Compose multiple filter functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "filter",
+    "filtering",
+    "exclude",
+    "array",
+    "list",
+    "narrow"
+  ],
+  "author": {
+    "name": "Bryan Bor",
+    "email": "bryandbor@gmail.com"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/bryandbor/compose-filters",
+  "bugs": {
+    "url": "https://github.com/bryandbor/compose-filters/issues"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/bryandbor/compose-filters.git"
+  }
+}
